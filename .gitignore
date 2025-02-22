@@ -1,0 +1,9 @@
+# Access to pre-built binaries not needed at this time.
+bin/
+obj/
+
+# Secrets and configurations
+# Ignore all appsettings environment-specific files, except the base appsettings.json file
+appsettings.*.json 
+!appsettings.json  
+secrets.json
