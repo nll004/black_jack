@@ -2,6 +2,9 @@
 bin/
 obj/
 
+# Workspace settings
+.vscode
+
 # Secrets and configurations
 appsettings.json
 appsettings.*.json 
